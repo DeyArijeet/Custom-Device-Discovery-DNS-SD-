@@ -114,6 +114,11 @@ Metadata: {...}
 <img width="1919" height="1011" alt="Screenshot 2026-02-02 180011" src="https://github.com/user-attachments/assets/0dbd8dfd-f2b2-450c-ab5d-60859cd7f303" />
 
 ---
+## Final Output (Raspberry Pi / Laptop (Client)) 
+
+
+https://github.com/user-attachments/assets/edd1194f-e616-4533-8079-b9c370eaa13f
+
 
 
 ## Verification
