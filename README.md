@@ -44,6 +44,31 @@ Custom-Device-Discovery-DNS-SD/
 └── README.md                     # Project documentation
 
 ````
+## Flowchart Representation
+Start
+  |
+  v
+Raspberry Pi boots
+  |
+Install zeroconf
+  |
+Publish DNS-SD Service
+  |
+Broadcast via mDNS
+  |
+-----------------------
+  |
+Client starts
+  |
+Listen for services
+  |
+Service discovered?
+  |
+Yes
+  |
+Display IP, Port, Metadata
+  |
+End
 
 ---
 
