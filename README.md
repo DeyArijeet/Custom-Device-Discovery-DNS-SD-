@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements automatic device discovery on a local network using
-mDNS and DNS Service Discovery (DNS-SD). A Raspberry Pi (physical or virtual)
+mDNS and DNS Service Discovery (DNS-SD). A Raspberry Pi (physical)
 acts as a service publisher, announcing itself on the network, while a client
 device discovers the service and displays the device details.
 
@@ -11,8 +11,8 @@ The implementation uses Python and the `python-zeroconf` library.
 ---
 
 ## Architecture
-- **Publisher**: Raspberry Pi / Virtual Raspberry Pi OS  
-- **Client**: Laptop (Windows/Linux/macOS)  
+- **Publisher**: Raspberry Pi 
+- **Client**: Laptop (Windows)  
 - **Network**: Same Local Area Network (LAN)
 
 ---
@@ -20,7 +20,7 @@ The implementation uses Python and the `python-zeroconf` library.
 ## Technologies Used
 - Python 3
 - python-zeroconf
-- Raspberry Pi OS / Virtual Raspberry Pi
+- Raspberry Pi OS
 - mDNS / DNS-SD
 
 ---
@@ -60,11 +60,11 @@ Custom-Device-Discovery-DNS-SD/
 ### Prerequisites
 - Python 3 installed on both devices
 - Both devices connected to the same LAN
-- Virtual Raspberry Pi must use **bridged networking**
+-  Raspberry Pi must use **LAN**
 
 ---
 
-### Publisher Setup (Raspberry Pi / VM)
+### Publisher Setup (Raspberry Pi)
 
 Install dependency:
 ```bash
