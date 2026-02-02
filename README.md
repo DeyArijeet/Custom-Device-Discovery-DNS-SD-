@@ -1,11 +1,4 @@
-Perfect 👍
-Below is a **COMPLETE, CLEAN, PROFESSIONAL `README.md`** written in **one structured flow**, exactly suitable for **company submission and GitHub**.
 
-Just **copy–paste this entire content** into your `README.md` file.
-
----
-
-```markdown
 # Custom Device Discovery via DNS-SD
 
 ## Overview
