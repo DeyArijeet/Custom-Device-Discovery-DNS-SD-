@@ -82,6 +82,7 @@ Expected output:
 ```
 Service announced on network
 ```
+<img width="1900" height="907" alt="Screenshot 2026-02-02 133253" src="https://github.com/user-attachments/assets/fb559f00-bf19-4ddd-9eea-12a0b98b7e10" />
 
 ---
 
