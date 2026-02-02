@@ -1,4 +1,3 @@
-
 # Custom Device Discovery via DNS-SD
 
 ## Overview
