@@ -141,10 +141,3 @@ intervention.
 
 **Arijeet Dey**
 
-```
-
----
-
-
-Just say 👍
-```
