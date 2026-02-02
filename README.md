@@ -141,7 +141,4 @@ intervention.
 
 ---
 
-## Author
-
-**Arijeet Dey**
 
