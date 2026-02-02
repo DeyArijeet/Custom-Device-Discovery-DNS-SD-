@@ -94,6 +94,7 @@ Install dependency:
 ```bash
 python -m pip install zeroconf
 ```
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/712bb143-cd94-4baf-8e5c-4b791528e311" />
 
 Run the client:
 
