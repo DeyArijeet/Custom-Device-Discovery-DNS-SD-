@@ -70,6 +70,7 @@ Install dependency:
 ```bash
 pip3 install zeroconf
 ````
+<img width="1903" height="909" alt="image" src="https://github.com/user-attachments/assets/4644283c-ec2e-4171-9a56-68be2a7750f8" />
 
 Run the publisher:
 
@@ -109,14 +110,16 @@ IP Address: xxx.xxx.xxx.xxx
 Port: 5000
 Metadata: {...}
 ```
+<img width="1919" height="1011" alt="Screenshot 2026-02-02 180011" src="https://github.com/user-attachments/assets/0dbd8dfd-f2b2-450c-ab5d-60859cd7f303" />
 
 ---
+
 
 ## Verification
 
 * Publisher terminal confirms service announcement.
 * Client terminal displays discovered device details.
-* Screenshots are provided in the `screenshots/` directory as proof.
+* Screenshots are provided in the `screenshots/Video` directory as proof.
 
 ---
 
